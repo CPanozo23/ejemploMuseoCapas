@@ -1,0 +1,11 @@
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\bin\Debug\Controller.exe.config
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\bin\Debug\Controller.exe
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\bin\Debug\Controller.pdb
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\bin\Debug\Model.exe
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\bin\Debug\Model.pdb
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\bin\Debug\Model.exe.config
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\obj\Debug\Controller.exe
+C:\Users\cpano\source\repos\PRO201_ejMuseoMVC\Controller\obj\Debug\Controller.pdb
